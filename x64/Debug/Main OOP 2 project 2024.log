@@ -1,0 +1,4 @@
+﻿  Main OOP 2 project 2024.cpp
+C:\Users\user\Desktop\Python lessons\Main OOP 2 project 2024\Main OOP 2 project 2024.cpp(193,30): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Desktop\Python lessons\Main OOP 2 project 2024\Main OOP 2 project 2024.cpp(814,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main OOP 2 project 2024.vcxproj -> C:\Users\user\Desktop\Python lessons\Main OOP 2 project 2024\x64\Debug\Main OOP 2 project 2024.exe
